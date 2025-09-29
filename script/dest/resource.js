@@ -1,5 +1,7 @@
-var imagePath = "https://86girlrescue.github.io/86GirlRescue2025/images";
+// var imagePath = "https://86girlrescue.github.io/86GirlRescue2025/images";
 // var imagePath = "https://cdn.jsdelivr.net/gh/86GirlRescue/86GirlRescue.github.io/images";
+
+var imagePath = "https://static.nmb.baby/images";
 
 window.onload = function() {
     var container = document.getElementsByTagName("div")[0].getElementsByTagName("div")[0];
